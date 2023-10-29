@@ -1,0 +1,3 @@
+# TianMaOA
+基于哔哩哔哩知了传课的小型问答平台网站，使用python flask架构和orm模型
+基于flask和orm数据模型来实现的小型网站
